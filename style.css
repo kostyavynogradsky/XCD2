@@ -38,13 +38,13 @@ body {
     text-align: center;
     padding: 10px;
     border: 5px double #98C261;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 110px;
+    margin-bottom: 110px;
     background-color: #98C261;
     border-radius: 5%;
     text-decoration: none;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 110px;
+    margin-right: 110px;
 }
 nav{
     display: flex;
